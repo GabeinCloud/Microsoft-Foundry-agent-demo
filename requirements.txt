@@ -1,5 +1,5 @@
 azure-ai-projects==2.4.0
 azure-identity==1.26.0
-openai==2.54.0
+openai==3.57.0
 python-dotenv==1.2.4
 reportlab==4.5.1
