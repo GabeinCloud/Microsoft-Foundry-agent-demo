@@ -272,3 +272,8 @@ La comprobación real de extremo a extremo requiere tu configuración y sesión.
 La demo utiliza `azure.ai.projects` 2.x, `PromptAgentDefinition` y Responses.
 No utiliza `azure-ai-agents` 1.x, Assistants API, threads/runs clásicos, toolboxes
 MCP ni Microsoft Agent Framework.
+
+## Seguridad y licencia
+
+Consulta [SECURITY.md](SECURITY.md) para notificar una vulnerabilidad y para
+consejos de uso seguro. Este proyecto se distribuye bajo la [licencia MIT](LICENSE).

@@ -1,5 +1,21 @@
+# Python
 .venv/
+venv/
 __pycache__/
+*.py[cod]
+
+# Local configuration and secrets
 .env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+
+# Remote resource IDs from your Foundry project
 estado*.json
 estado.tmp
+
+# OS / editor
+.DS_Store
+Thumbs.db

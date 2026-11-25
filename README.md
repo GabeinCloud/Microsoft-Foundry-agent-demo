@@ -271,3 +271,8 @@ needs your configuration and session.
 The demo uses `azure.ai.projects` 2.x, `PromptAgentDefinition` and Responses.
 It does not use `azure-ai-agents` 1.x, the Assistants API, classic threads/runs,
 MCP toolboxes or Microsoft Agent Framework.
+
+## Security and license
+
+See [SECURITY.md](SECURITY.md) to report a vulnerability and for safe-use tips.
+This project is licensed under the [MIT License](LICENSE).
